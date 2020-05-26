@@ -1,0 +1,16 @@
+.grid{
+    width: 70%;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    align-content: stretch;
+    box-shadow: 2px 2px 4px 0px rgba(0,0,0,0.75);
+
+}
+
+.cell{
+
+    background-color: white;
+    border: 1px solid darkgrey;
+}
